@@ -265,21 +265,4 @@ lang: vi
   <p>Trong học tập của bạn, thay đổi nhỏ nào đang được tích lũy để tạo nên một bước tiến lớn?</p>
 </div>
 
----
-
-<!-- _class: sources -->
-
-<div class="eyebrow">12 / THAM KHẢO & TRAO ĐỔI</div>
-
-# Cơ sở học thuật
-
-<div class="source-card">
-  <span class="source-index">01</span>
-  <div><b>Giáo trình Triết học Mác – Lênin</b><p>Bộ Giáo dục và Đào tạo; sử dụng bản giáo trình chính thức do cơ sở đào tạo cung cấp. Đối chiếu phần phép biện chứng duy vật và các quy luật cơ bản.</p></div>
-</div>
-<div class="source-card">
-  <span class="source-index">02</span>
-  <div><b>Ghi chú kiểm chứng</b><p>Bổ sung năm xuất bản, nhà xuất bản, tác giả/chủ biên và số trang theo đúng ấn bản thực tế trước khi trình chiếu. Không dùng trích dẫn nguyên văn khi chưa đối chiếu bản gốc.</p></div>
-</div>
-
-<div class="takeaway">Câu hỏi cuối: Làm thế nào phân biệt một thay đổi về lượng thông thường với sự tích lũy đang tiến gần điểm nút?</div>
+<div class="reference-note">Tham khảo: Giáo trình Triết học Mác – Lênin, Bộ Giáo dục và Đào tạo. Hãy bổ sung năm xuất bản, nhà xuất bản và số trang theo đúng ấn bản được cơ sở đào tạo sử dụng; các chi tiết thư mục cần được đối chiếu trước khi trình chiếu.</div>
