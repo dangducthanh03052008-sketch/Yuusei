@@ -175,3 +175,11 @@ section.cover { display: flex; flex-direction: column; justify-content: center; 
 .source-card b { font-size: 18px; }
 .source-card p { font-size: 15px; margin: 6px 0 0; line-height: 1.5; }
 .sources .takeaway { margin-top: 18px; }
+
+.reference-note {
+  margin-top: 16px;
+  max-width: 950px;
+  color: #7f9b8e;
+  font-size: 11px;
+  line-height: 1.45;
+}
